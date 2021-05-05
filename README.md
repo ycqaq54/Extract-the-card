@@ -1,3 +1,3 @@
 # Extract-the-card
-a simple program,
+A simple program,
 langeuage only Chinese!
